@@ -1,4 +1,4 @@
-I Didnt Put The Data Folder Bcz It Consisted Of The API Key But You Can Create a Data Folder and Create A Text File Called "API.txt" and Put You Key And The Rest Will Be Handled By The Code Also You Might Need To Change The Com Port In Python Part
+I Didnt Put The Data Folder Bcz It Consisted Of The API Key But You Can Create a Data Folder and Create A Text File Called "key.txt" and Put You Key And The Rest Will Be Handled By The Code Also You Might Need To Change The Com Port In Python Part
 And
 I Couldnt Upload The Arduino Part So Heres The Code For It
 
